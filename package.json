@@ -1,0 +1,17 @@
+{
+  "name": "json-to-toon",
+  "version": "1.0.0",
+  "description": "Convert JSON data into the human-friendly TOON text format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e 'console.log(\"No tests specified\")'"
+  },
+  "keywords": [
+    "json",
+    "serializer",
+    "formatter",
+    "toon"
+  ],
+  "author": "Deepak Heman Das",
+  "license": "MIT"
+}
